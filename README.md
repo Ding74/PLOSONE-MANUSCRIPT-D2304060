@@ -6,6 +6,7 @@ This project is mainly to store the minimum dataset and code of Amap driving nav
 
 # 2. Data directory
 <p>This directory store the minimum dataset of Amap driving navigation, a total of two data sets, respectively corresponding to 2019 and 2020.</p>
+
 | Field Name            | Description                            | value type  |
 | --------------------- | -------------------------------------- | ----------- |
 | Navigation ID         | Use the navigation logo this time      | String      |
