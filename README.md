@@ -1,6 +1,6 @@
 # PLOSONE-MANUSCRIPT-D2304060
 # 1. Introduction
-This project is mainly to store the minimum dataset and code of Amap driving navigation used in the manuscript entitled "Evaluation of the industrial cooperation of the Guangdong Hong Kong Macao Greater Bay Area: based on the Origin-Destination pairs of industrial parks and coupling model efficiency".
+This project is mainly to store the minimum dataset of Amap driving navigation used in the manuscript entitled "Evaluation of the industrial cooperation of the Guangdong Hong Kong Macao Greater Bay Area: based on the Origin-Destination pairs of industrial parks and coupling model efficiency".
 
 ------
 
@@ -19,7 +19,7 @@ This project is mainly to store the minimum dataset and code of Amap driving nav
 | Driving speed         | Driving speed                          | float       |
 | Driving length        | Navigation distance length (m)         | float       |
 
-- <b>Coordinate system: GCJ02
+- <b>Coordinate system: GCJ02.
 - <b>Data time</b>: From January 2019.
 - <b>Data range</b>: The destination or origin point of navigation is located in 11 cities, including Guangzhou, Shenzhen, Zhuhai, Foshan, Huizhou, Dongguan, Zhongshan, Jiangmen, Zhaoqing, Hong Kong and Macao.
 
